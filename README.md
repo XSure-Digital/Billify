@@ -373,7 +373,7 @@ A package manager
 Payment provider credentials (if payment integration is enabled)
 Clone the Repository
 bash
-git clone https://github.com/YOUR-USERNAME/billify.git
+git clone (https://github.com/XSure-Digital/Billify.git)
 
 cd billify
 
